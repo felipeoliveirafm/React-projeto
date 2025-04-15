@@ -22,11 +22,6 @@ Curso ministrado por **André Rafael** na plataforma [Origamid](https://www.orig
 - Navegação com **React Router**
 - Integração com API e **JWT Auth**
 - Build, Lazy Loading, Suspense e otimizações
-
-📅 Curso atualizado com aulas até **2023**
-
-📑 Slides: [origamid.com/slide/react-completo](https://www.origamid.com/slide/react-completo)
-
 ---
 
 ## 🚀 Funcionalidades da Aplicação
